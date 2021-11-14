@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/monster-app/static/css/main.15e070ca.chunk.css",
-    "main.js": "/monster-app/static/js/main.343d88a1.chunk.js",
-    "main.js.map": "/monster-app/static/js/main.343d88a1.chunk.js.map",
+    "main.css": "/monster-app/static/css/main.4f03712f.chunk.css",
+    "main.js": "/monster-app/static/js/main.ba3375ab.chunk.js",
+    "main.js.map": "/monster-app/static/js/main.ba3375ab.chunk.js.map",
     "runtime-main.js": "/monster-app/static/js/runtime-main.19a36515.js",
     "runtime-main.js.map": "/monster-app/static/js/runtime-main.19a36515.js.map",
     "static/js/2.dadca22e.chunk.js": "/monster-app/static/js/2.dadca22e.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d786c8b5.chunk.js": "/monster-app/static/js/3.d786c8b5.chunk.js",
     "static/js/3.d786c8b5.chunk.js.map": "/monster-app/static/js/3.d786c8b5.chunk.js.map",
     "index.html": "/monster-app/index.html",
-    "static/css/main.15e070ca.chunk.css.map": "/monster-app/static/css/main.15e070ca.chunk.css.map",
+    "static/css/main.4f03712f.chunk.css.map": "/monster-app/static/css/main.4f03712f.chunk.css.map",
     "static/js/2.dadca22e.chunk.js.LICENSE.txt": "/monster-app/static/js/2.dadca22e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19a36515.js",
     "static/js/2.dadca22e.chunk.js",
-    "static/css/main.15e070ca.chunk.css",
-    "static/js/main.343d88a1.chunk.js"
+    "static/css/main.4f03712f.chunk.css",
+    "static/js/main.ba3375ab.chunk.js"
   ]
 }
