@@ -8,8 +8,9 @@ body {
 
   background: linear-gradient(
     to left,
-    rgb(7, 27, 82, 1) 0%,
-    rgb(24, 151, 145) 100%
+    rgba(252, 0, 0, 0.596) 0%,
+    rgba(208, 255, 0, 0.582) 50%,
+    rgba(10, 6, 248, 0.521) 100%
   );
 }
 
